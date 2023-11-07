@@ -1,14 +1,6 @@
 # Hi, I'm Collin Heenan! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</p>
-
-<p align='right'>
-  <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-</p>
-
-I'm currently a passionate student at Worcester State University, delving into the intersection of Economics and Computer Science. I'm fascinated by the potential of Machine Learning and Quantitative Research, and I'm currently channeling this interest into fine-tuning domain-specific language models.
+I'm currently a student at Worcester State University, delving into the intersection of Economics and Computer Science. I'm fascinated by the potential of Machine Learning and Quantitative Research, and I'm currently channeling this interest into fine-tuning domain-specific language models.
 
 ### 📚 Education
 - **Bachelor's Student** in *Economics and Computer Science* at Worcester State University.
@@ -26,7 +18,7 @@ I'm currently a passionate student at Worcester State University, delving into t
 
 ### 💬 Let's Connect
 
-[![Linkedin: collinheenan](https://img.shields.io/badge/-collinheenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/collinheenan/)](https://www.linkedin.com/in/collinheenan/)
+[![Linkedin: collinheenan](https://img.shields.io/badge/-collinheenan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/collinheenan/](https://www.linkedin.com/in/collin-heenan-08a88a20b/))]([https://www.linkedin.com/in/collinheenan/](https://www.linkedin.com/in/collin-heenan-08a88a20b/))
 ![GitHub followers](https://img.shields.io/github/followers/cxllinheenan?label=Follow&style=social)
 
 ### A little more about me...
